@@ -1,29 +1,49 @@
-# ResumeMD
+# [your app name here]
 
-A modern, live Markdown resume editor with CSS styling. Create professional resumes quickly using familiar Markdown syntax while seeing your changes in real-time.
+CodePath WEB103 Final Project
 
-## ✨ Features
+Designed and developed by: [your names here]
 
-- **Live Preview**: See your changes instantly as you type
-- **Markdown Support**: Write your resume using simple Markdown syntax
-- **Custom Styling**: Apply and customize CSS to make your resume stand out
-- **Templates**: Choose from various pre-built resume templates
-- **Export Options**: Download your resume as PDF, HTML, or Markdown
-- **Cloud Storage**: Save and manage multiple versions of your resume
-- **Responsive Design**: Perfect viewing experience across all devices
+🔗 Link to deployed app:
 
-## 💻 Usage
+## About
 
-1. **Select a Template**: Choose from our collection of professional templates
-2. **Edit Content**: Write your resume content using Markdown syntax
-3. **Style**: Customize the CSS to match your preferred design
-4. **Preview**: Check the live preview to see your changes
-5. **Export**: Download your resume in your preferred format
+### Description and Purpose
 
-## 📝 License
+[text goes here]
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Inspiration
 
-## 🙏 Acknowledgments
+[text goes here]
 
-- Inspired by the need for a modern, developer-friendly resume creation tool
+## Tech Stack
+
+Frontend:
+
+Backend:
+
+## Features
+
+### [Name of Feature 1]
+
+[short description goes here]
+
+[gif goes here]
+
+### [Name of Feature 2]
+
+[short description goes here]
+
+[gif goes here]
+
+### [Name of Feature 3]
+
+[short description goes here]
+
+[gif goes here]
+
+### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+
+## Installation Instructions
+
+[instructions go here]
