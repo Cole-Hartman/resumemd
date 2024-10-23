@@ -1,60 +1,29 @@
-# UniLend
+# ResuméMD
 
-UniLend is a peer-to-peer lending platform designed specifically for university students. It allows students to lend and borrow items easily within their university community.
+A modern, live Markdown resume editor with CSS styling. Create professional resumes quickly using familiar Markdown syntax while seeing your changes in real-time.
 
-## Table of Contents
+## ✨ Features
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- **Live Preview**: See your changes instantly as you type
+- **Markdown Support**: Write your resume using simple Markdown syntax
+- **Custom Styling**: Apply and customize CSS to make your resume stand out
+- **Templates**: Choose from various pre-built resume templates
+- **Export Options**: Download your resume as PDF, HTML, or Markdown
+- **Cloud Storage**: Save and manage multiple versions of your resume
+- **Responsive Design**: Perfect viewing experience across all devices
 
-## Features
+## 💻 Usage
 
-- User authentication and authorization
-- Item listing and browsing
-- Image upload for item listings
-- Borrowing request system
+1. **Select a Template**: Choose from our collection of professional templates
+2. **Edit Content**: Write your resume content using Markdown syntax
+3. **Style**: Customize the CSS to match your preferred design
+4. **Preview**: Check the live preview to see your changes
+5. **Export**: Download your resume in your preferred format
 
-## Tech Stack
+## 📝 License
 
-- Frontend: React.js with Next.js
-- Backend: Node.js with Express
-- Database: PostgreSQL w Railway
-- Styling: Tailwind CSS
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-To use UniLend:
+## 🙏 Acknowledgments
 
-1. Sign up for an account
-2. Browse available items or list an item for lending
-3. Request to borrow an item or respond to borrowing requests
-
-## API Endpoints
-
-- `POST /api/auth/signup`: Create a new user account
-- `POST /api/auth/login`: Log in to an existing account
-- `GET /api/items`: Retrieve all items
-- `POST /api/items`: Create a new item listing
-- `GET /api/items/:id`: Retrieve a specific item
-- `PUT /api/items/:id`: Update an item listing
-- `DELETE /api/items/:id`: Delete an item listing
-
-## Contributing
-
-We welcome contributions to UniLend! Please follow these steps to contribute:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- Inspired by the need for a modern, developer-friendly resume creation tool
