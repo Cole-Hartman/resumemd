@@ -1,6 +1,5 @@
 "use client";
 import { Button } from "@/components/ui/button";
-import Image from "next/image";
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { GraduationCap } from "lucide-react";
@@ -27,7 +26,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href={"/home"}>
               <h1 className="text-2xl font-bold text-white text-primary">
-                UniLend
+                ResumeMD
               </h1>
             </Link>{" "}
           </div>
@@ -51,7 +50,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href={"/home"}>
               <h1 className="text-2xl font-bold text-white text-primary">
-                UniLend
+                ResumeMD
               </h1>
             </Link>
           </div>
