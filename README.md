@@ -1,4 +1,4 @@
-# ResuméMD
+# ResumeMD
 
 A modern, live Markdown resume editor with CSS styling. Create professional resumes quickly using familiar Markdown syntax while seeing your changes in real-time.
 
