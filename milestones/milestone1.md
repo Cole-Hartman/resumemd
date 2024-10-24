@@ -13,19 +13,24 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [x] In `readme.md`: complete the **Description and Purpose** section
 - [x] In `readme.md`: complete the **Inspiration** section
 - [x] In `readme.md`: list all features you intend to include in your app (in future units, you will check off features as you complete them and add GIFs demonstrating the features)
-- [] In `planning/user_stories.md`: add all user stories
-- [] In this document, complete the **Reflection** section below
+- [x] In `planning/user_stories.md`: add all user stories
+- [x] In this document, complete the **Reflection** section below
 
 ## Reflection
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+This first milestone went smoothly in terms of project planning and initial setup. Our team successfully:
+-Established a clear vision for our web application by carefully reviewing the baseline and custom feature requirements
+-Set up our shared GitHub repository and ensured all team members had proper access
+-Collaborated effectively to create comprehensive user stories that will guide our development
+-Gained a solid understanding of the project scope and technical requirements
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+-Narrowing down our app concept to something that would be both interesting and feasible within the project timeline
+-Deciding which two custom features would add the most value to our application while being realistic to implement
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Clarification on deployment best practices using Railway, especially regarding environment variables and database configuration
